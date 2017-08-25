@@ -1,5 +1,5 @@
 # ALK Airlines
-The purpose of this test is to test your familiarity with C#, MVC, HTML, and CSS.  All items we use on a regular basis to maintain current functionality and add new functionality to Alaska Airlines digital footprint. Please approach this test as if you were intending on deploying this to a production environment. This includes using the same patterns and practices you would use in a production environment. Also assume other engineers will have to maintain and or add functionality to this in the future.
+All items we use on a regular basis to maintain current functionality and add new functionality to Alaska Airlines digital footprint. Please approach this test as if you were intending on deploying this to a production environment. This includes using the same patterns and practices you would use in a production environment. Also assume other engineers will have to maintain and or add functionality to this in the future.
 
 Data Files (attached CSVs)
 - List of airports
